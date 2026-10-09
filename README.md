@@ -105,7 +105,7 @@ POLYGON_AMOY_RPC=https://rpc-amoy.polygon.technology/
 
 ---
 
-## 🚀 Installation & Local Development
+## 🚀 Installation & Local Development.
 
 ```bash
 # 1. Clone repository
